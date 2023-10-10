@@ -35,10 +35,10 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://www.youtube.com/@dealscasino';
+let adLink = 'https://www.youtube.com/@Yuimizu';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = 'DEALSCASINO';
+document.getElementsByTagName("title")[0].innerText = 'YUIMIZU';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
